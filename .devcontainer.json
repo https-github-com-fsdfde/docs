@@ -1,5 +1,5 @@
 // Codespaces environment for docs.github.com
-// For format details, see https://aka.ms/vscode-remote/devcontainer.json 
+// For format details, see https://aka.ms/vscode-remote/devcontainer.json
 {
     "name": "docs.github.com",
     "service": "container-doc",
@@ -16,3 +16,14 @@
         "streetsidesoftware.code-spell-checker"
     ]
 }
+terminal.integrated.automationShell
+terminal.integrated.cwd
+terminal.integrated.env.{platform
+}
+terminal.integrated.inheritEnv
+terminal.integrated.shell.{platform
+}
+terminal.integrated.shellArgs.{platform
+}
+terminal.integrated.splitCwd
+terminal.integrated.windowsEnableConpty

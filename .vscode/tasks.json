@@ -1,0 +1,12 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "browser-test",
+			"problemMatcher": [],
+			"label": "npm: browser-test",
+			"detail": "start-server-and-test browser-test-server 4001 browser-test-tests"
+		}
+	]
+}
